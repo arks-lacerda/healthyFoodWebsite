@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Healthy Restaurant is committed to offering balanced Chinese meal options. Our menu includes a variety of dishes carefully prepared to meet your health and wellness needs.
+Restaurante Saudável is committed to offering healthy and balanced meal options. Our menu includes a variety of dishes carefully prepared to meet your health and wellness needs.
 
 Thank you for visiting and we hope you enjoy your healthy dining experience!
 
