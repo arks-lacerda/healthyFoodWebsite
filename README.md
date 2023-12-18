@@ -19,7 +19,7 @@ This project was developed with the following technologies:
 - Responsive design
 - Animation
 
-## 💻 Projeto
+## 💻 Project
 
 Restaurante Saudável is committed to offering healthy and balanced meal options. Our menu includes a variety of dishes carefully prepared to meet your health and wellness needs.
 
