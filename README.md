@@ -27,4 +27,4 @@ Thank you for visiting and we hope you enjoy your healthy dining experience!
 
 # 💻 Run this project
 
-Visit our website [here](https://) to explore the full menu and place your order online.
+Visit our website [here](https://arks-lacerda.github.io/healthyFoodWebsite/) to explore the full menu and place your order online.
